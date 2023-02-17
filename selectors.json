@@ -1,0 +1,19 @@
+{
+    "LogInOk": ".header__login button > strong",
+    "LogInFail": ".header__login span",
+    "LogInFailText": "Log In",
+
+    "server": {
+        "btn": "#cdkey__region > .cdkey-select__btn",
+        "element": "#cdkey__region > .cdkey-select__menu > div"
+    },
+
+    "nickname": {
+        "element": "#cdkey__character",
+        "processing": "Querying...",
+        "missing": "Obtain character nickname"
+    },
+
+    "code": "#cdkey__code",
+    "submit": ".cdkey-form__submit"
+}
