@@ -2,7 +2,7 @@
 ### This tool will automatically collect HoYoLab daily login rewards on all your accounts.
 
 
-![Genshin Impact daily login rewards](/images/hoyolab/hoyolab-codes.png)
+![hoyolab codes](/images/hoyolab/hoyolab-codes.png)
 
 ---
 
@@ -67,4 +67,3 @@ In this case, you need to open square brackets `[` list received in the section 
 
 ---
 #### **Sometimes Cookies need to be updated**
-If any account needs to update its cookies, Actions will fail, GitHub will notify you by email
